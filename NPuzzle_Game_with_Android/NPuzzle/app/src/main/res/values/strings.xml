@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NPuzzle Game</string>
+    <string name="message">msgBox</string>
+    <string name="name">Enter Your Name</string>
+    <string name="size">Enter Size Information</string>
+    <string name="row">Enter Row Number</string>
+    <string name="column">Enter Column Number</string>
+    <string name="diff">Select Difficulty Mode</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="enterMes">Welcome To N-Puzzle Game</string>
+    <string name="start">Start Game</string>
+    <string name="size2">Enter Size Information(3x3,3x4,3x5...9x8,9x9 )</string>
+    <string name="isim">Nameless is playing...</string>
+    <string name="info">To move Block Just touch them.</string>
+    <string name="info2">To move Block just Touch them.</string>
+    <string name="moves">Number of Move :</string>
+    <string name="btn1">New Game</string>
+    <string name="hint">Hint</string>
+    <string name="size3">Enter Size Information(3x3,3x4...9x8,9x9)</string>
+</resources>
