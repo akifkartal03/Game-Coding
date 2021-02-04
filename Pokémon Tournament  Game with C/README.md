@@ -1,8 +1,7 @@
-### A pokémon game with C programming Language.
+### A pokémon attack game with C programming Language.
 #### Check for details Game Rules.pdf file.
 
-<img  width="300" height="300" src="https://github.com/akifkartal03/Object_Oriented_Programming_with_CPP/blob/master/CSE241%20Assignments/N-Puzzle%20Game%20stage%20by%20stage/NPuzzle_Game.png">
+<img  width="400" height="300" src="https://github.com/akifkartal03/Game-Coding-in-Various-Environment/blob/master/Pok%C3%A9mon%20Tournament%20%20Game%20with%20C/screenshots/1.JPG">
 
-<img  width="300" height="300" src="https://github.com/akifkartal03/Object_Oriented_Programming_with_CPP/blob/master/CSE241%20Assignments/N-Puzzle%20Game%20stage%20by%20stage/NPuzzle_Game.png">
+<img  width="800" height="600" src="https://github.com/akifkartal03/Game-Coding-in-Various-Environment/blob/master/Pok%C3%A9mon%20Tournament%20%20Game%20with%20C/screenshots/2.JPG">
 
-<img  width="300" height="300" src="https://github.com/akifkartal03/Object_Oriented_Programming_with_CPP/blob/master/CSE241%20Assignments/N-Puzzle%20Game%20stage%20by%20stage/NPuzzle_Game.png">
